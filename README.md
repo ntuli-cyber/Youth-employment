@@ -1,4 +1,4 @@
-# Youth Employment Program – Gauteng
+# Youth Empowerment Program – Gauteng
 
 This is a community-driven website designed to raise awareness and support for youth employment, job creation, and crime prevention in Gauteng.
 
